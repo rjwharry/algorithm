@@ -1,5 +1,5 @@
 # 도넛과 그래프
-
+[문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/258711)
 ## 풀이
 - 각 그래프 타입에서 특징을 가진 정점의 개수를 구한다.  
     - 막대: 막대 그래프의 마지막 정점은 항상 나가는게 없다  
